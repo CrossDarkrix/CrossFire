@@ -9,7 +9,7 @@ Just type on a terminal:
 Or double click on the program in winzoz.
 
 
-<h1>ENJOY!</h1>
+<h1>Please target to Test device Only.</h1>
 
 
 ![StartMenu](https://raw.githubusercontent.com/CrossDarkrix/CrossFire/master/ScreenShots/StartMenu.png)
